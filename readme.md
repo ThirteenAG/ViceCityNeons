@@ -16,9 +16,10 @@ This mod adds neons from Vice City Stories to original GTA Vice City.
 1. Download and install [Widescreen Fix](https://thirteenag.github.io/wfp#gtavc). It comes with necessary ASI Loader.
 2. Download and install [modloader](https://github.com/thelink2012/modloader/releases/latest). You can put modloader.asi inside modloader folder.
 3. Download and install [Project2DFX](https://github.com/ThirteenAG/III.VC.SA.IV.Project2DFX/releases/tag/gtavc). It includes limit adjuster that is necessary for this mod to work. You can remove VCLodLights.asi if you choose to do so.
-4. Download [ViceCityNeons.zip](https://github.com/ThirteenAG/ViceCityNeons/releases/latest/download/ViceCityNeons.zip)
-5. Download [CustomNeonTexture.zip](https://github.com/ThirteenAG/ViceCityNeons/releases/latest/download/CustomNeonTexture.zip) (optional)
-6. Unpack archives into your modloader directory.
+4. Download and install [SkyGFX](https://github.com/aap/skygfx_vc/releases/latest). For best visuals set **dualPass=0** and **disableBackfaceCulling=1** in **skygfx.ini**.
+5. Download [ViceCityNeons.zip](https://github.com/ThirteenAG/ViceCityNeons/releases/latest/download/ViceCityNeons.zip)
+6. Download [CustomNeonTexture.zip](https://github.com/ThirteenAG/ViceCityNeons/releases/latest/download/CustomNeonTexture.zip) (optional)
+7. Unpack archives into your modloader directory.
 
 ---
 
